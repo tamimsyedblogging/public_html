@@ -85,7 +85,7 @@
 }
 
 #main-heading.jumbotron {
-  background-image:url(../../assets/img/3336-grey-texture-1920x1080-abstract-wallpaper.gif);
+  background-image:url(../../assets/img/Anaconda-Navigator.jpg);
   display:flex;
   justify-content:center;
   align-items:center;
@@ -117,11 +117,11 @@ p#main-heading-subsection.text-center {
 }
 
 h1#stop-media-banner-text {
-  color:rgb(170,158,158);
+  color:'black';
 }
 
 h3#stop-media-banner-text {
-  color:rgb(204,197,197);
+  color:'black';
 }
 
 @media (max-width:991px) {
@@ -141,4 +141,3 @@ h3#stop-media-banner-text {
     height:201px;
   }
 }
-
