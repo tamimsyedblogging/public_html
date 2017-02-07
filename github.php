@@ -1,4 +1,4 @@
 <?php
 shell_exec('git pull');
-echo '<p>Am done and set here.</p>';
+echo '<p>Code updated from Git repo.Try to refresh the site and clear your Browser cache.</p>';
 ?>
