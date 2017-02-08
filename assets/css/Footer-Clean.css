@@ -117,11 +117,11 @@ p#main-heading-subsection.text-center {
 }
 
 h1#stop-media-banner-text {
-  color:'black';
+  color:rgb(170,158,158);
 }
 
 h3#stop-media-banner-text {
-  color:'black';
+  color:rgb(11,10,10);
 }
 
 @media (max-width:991px) {
