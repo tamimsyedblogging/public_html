@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('REVISR_GIT_PATH', ''); // Added by Revisr
+define('REVISR_GIT_PATH', 'https://github.com/tamimsyedblogging/thetruthengineland'); // Added by Revisr
 define('WP_CACHE', true); //Added by WP-Cache Manager
 define( 'WPCACHEHOME', '/home1/tamimsyed/public_html/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
 define('DB_NAME', 'tamimsye_wrdp1');

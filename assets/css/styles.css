@@ -6,13 +6,3 @@ body {
   background-color:#56595f;
 }
 
-@media (max-width:991px) {
-  img#image-3-slide {
-    height:400px;
-  }
-}
-
-h1#stop-media-banner-text {
-  color:rgb(40,38,38);
-}
-
