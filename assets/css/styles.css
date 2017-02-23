@@ -1,18 +1,19 @@
 body {
-  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size:14px;
-  line-height:1.42857143;
-  color:#333;
-  background-color:#56595f;
+  font-family:"Lusitana","Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  background-color:#f8f5f0;
 }
 
-@media (max-width:991px) {
-  img#image-3-slide {
-    height:400px;
+p.blog-section {
+  font-size:21px;
+}
+
+h3.blog-heading {
+  font-size:25px;
+}
+
+@media (max-width:767px) {
+  div.blog-container {
+    padding:20px;
   }
-}
-
-h1#stop-media-banner-text {
-  color:rgb(40,38,38);
 }
 
